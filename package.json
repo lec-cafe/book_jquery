@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lec-cafe/book_jquery#readme",
   "dependencies": {
-    "gitbook": "^2.6.9"
+    "gitbook": "^2.6.9",
+    "gitbook-cli": "^2.3.2"
   }
 }
